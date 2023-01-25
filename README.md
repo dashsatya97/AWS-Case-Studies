@@ -1,3 +1,3 @@
 # AWS-Case-Studies
 
-Thsi repository consists of beginner level Amazon Web Services Case Studies on different service. 
+This repository consists of Case studies related to AWS Cloud Services.
